@@ -1,0 +1,39 @@
+.images-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.carousel-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.image {
+  text-align: center;
+  width: 100px;
+  align-self: center;
+}
+.icon {
+  width: 30px;
+}
+.company {
+  text-align: center;
+  color: red;
+}
+.heading {
+  text-align: center;
+}
+
+.content {
+  text-align: center;
+  color: black;
+}
+
+p {
+  color: white;
+}
+
+button {
+  border: none;
+  background-color: transparent;
+}

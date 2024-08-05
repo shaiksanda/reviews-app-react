@@ -1,0 +1,20 @@
+/* Write your code here */
+
+.bg-container {
+  background: linear-gradient(#4169e1, #87ceeb);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.main-heading {
+  color: white;
+  font-family: 'Bree Serif';
+}
+
+.review-container {
+  display: flex;
+  flex-direction: column;
+}
